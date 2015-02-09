@@ -1,6 +1,6 @@
 # helper-require [![NPM version](https://badge.fury.io/js/helper-require.svg)](http://badge.fury.io/js/helper-require)  [![Build Status](https://travis-ci.org/jonschlinkert/helper-require.svg)](https://travis-ci.org/jonschlinkert/helper-require) 
 
-> Use any node module in templates. Should work with Handlebars, Lo-Dash, underscore, or any template engine that has support for helper functions.
+> Use any node module as a helper in templates. Should work with Handlebars, Lo-Dash, underscore, or any template engine that supports helper functions.
 
 ## Install with [npm](npmjs.org)
 
