@@ -1,0 +1,40 @@
+{
+  "name": "helper-require",
+  "description": "Use any node module in templates. Should work with Handlebars, Lo-Dash, underscore, or any template engine that has support for helper functions.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/helper-require",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/helper-require.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/helper-require/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonschlinkert/helper-require/blob/master/LICENSE"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "get-value": "^1.0.0",
+    "handlebars": "^2.0.0",
+    "mocha": "*",
+    "should": "*",
+    "verb": "^0.3.9"
+  },
+  "keywords": []
+}
